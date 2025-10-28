@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-hooks-clock/static/css/main.843da108.css",
-    "main.js": "/react-hooks-clock/static/js/main.8414d4b1.js",
+    "main.css": "/react-hooks-clock/static/css/main.1d81db3c.css",
+    "main.js": "/react-hooks-clock/static/js/main.af389945.js",
     "index.html": "/react-hooks-clock/index.html",
-    "main.843da108.css.map": "/react-hooks-clock/static/css/main.843da108.css.map",
-    "main.8414d4b1.js.map": "/react-hooks-clock/static/js/main.8414d4b1.js.map"
+    "main.1d81db3c.css.map": "/react-hooks-clock/static/css/main.1d81db3c.css.map",
+    "main.af389945.js.map": "/react-hooks-clock/static/js/main.af389945.js.map"
   },
   "entrypoints": [
-    "static/css/main.843da108.css",
-    "static/js/main.8414d4b1.js"
+    "static/css/main.1d81db3c.css",
+    "static/js/main.af389945.js"
   ]
 }
