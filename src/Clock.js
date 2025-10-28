@@ -6,7 +6,9 @@ function Clock() {
   useEffect(() => {
     const timeInterval = window.setInterval(() => {
       setTime(new Date());
+      console.log("In timeInterval");
     }, 1000);
+    return () => window.clearInterval(timeInterval);
   }, []);
 
   return (
